@@ -1,0 +1,72 @@
+/* css behorende bij huiswerkopgave 12.14 */
+/* body */
+body {
+  background: #A9A9A9;
+  }
+/* header */
+header {
+  background: #CCCCCC;
+  color: #008000;
+  width: 650px;
+}
+/* footer */
+footer {
+  background: #303030;
+  color: #FFFF00;
+  width: 650px;
+  height: 25px;
+}
+/* table header */
+th {
+    background-color: #CCCC99;
+    height: 30px;
+}
+/* table cells */
+#cel1 {
+    background-color: #CCFFFF;
+}
+#cel2 {
+    background-color: #CCFFCC;
+}
+#cel3 {
+    background-color: #CCFF99;
+}
+#cel4 {
+    background-color: #CCFF66;
+}
+#cel5 {
+    background-color: #99FFFF;
+}
+#cel6 {
+    background-color: #99FFCC;
+}
+#cel7 {
+    background-color: #99FF99;
+}
+#cel8 {
+    background-color: #99FF66;
+}
+#cel9 {
+    background-color: #66FFFF;
+}
+#cel10 {
+    background-color: #66FFCC;
+}
+#cel11 {
+    background-color: #66FF99;
+}
+#cel12 {
+    background-color: #66FF66;
+}
+#cel13 {
+    background-color: #33FFFF;
+}
+#cel14 {
+    background-color: #33FFCC;
+}
+#cel15 {
+    background-color: #33FF99;
+}
+#cel16 {
+    background-color: #33FF66;
+}
